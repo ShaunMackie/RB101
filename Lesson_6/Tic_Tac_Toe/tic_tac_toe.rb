@@ -1,5 +1,4 @@
 require 'yaml'
-require 'pry'
 
 WHO_GOES_FIRST = 'Choose'.freeze
 
