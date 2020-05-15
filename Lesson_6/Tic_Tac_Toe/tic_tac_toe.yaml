@@ -1,0 +1,13 @@
+welcome: "Welcome to Tic Tac Toe!"
+rules: "The first player to score five points wins the match!"
+invalid_choice: "Oops! That is not a valid choice."
+another_round?: "Would you like to begin a brand new match? (Enter Y/Yes to play again. Enter N/No to exit the program.)"
+invalid_input: "Whoops..Invalid input. "
+exit_message: 'Thanks for playing Tic Tac Toe! Goodbye!'
+continue?: "Would you like to continue the match? (Enter Y/Yes to continue playing. Enter N/No to give up.)"
+player_grand_winner: "You are the Grand Winner!"
+computer_grand_winner: "Computer is the Grand Winner!"
+quit_early: "Quitting the match early, eh? No problem, you probably weren't gonna win anyway."
+tie: "Would ya look at that! It's a tie!"
+go_first?: "Who would you like to go first? Enter 'P' for Player or 'C' for Computer."
+invalid_go_first: "That's not a valid choice. Please enter 'P' for Player or 'C' for Computer."

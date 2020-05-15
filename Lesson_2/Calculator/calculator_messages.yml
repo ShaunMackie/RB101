@@ -1,0 +1,23 @@
+en:  
+  welcome: "Welcome to Calculator! Enter your name: "
+  valid_name: "Silly rabbit..make sure to use a valid name."
+  first_number: "What's the first number?"
+  second_number: "What's the second number?"
+  error_message: "Oopsies! Invalid number! Please enter a valid number."
+  zero_divison_error: "Silly goose...you can't divide by zero."
+  valid_choice: "Must choose 1, 2, 3 or 4"
+  another_operation?: "Would you like to perform another operation?"
+  exit_error_message: "Whoops! y/yes for another calculation. n/no to Exit."
+  exit_message: "Thank you for using Calculator! Good bye."
+
+es:
+  welcome: "Bienvenido a la calculadora! Entre su nombre:"
+  valid_name: "Asegúrese de entrar un nombre válido."
+  first_number: "What's the first number?(SPANISH)"
+  second_number: "What's the second number?(SPANISH)"
+  error_message: "Hmm..that looks like an invalid number.(SPANISH)"
+  zero_divison_error: "Silly goose...you can't divide by zero.(SPANISH)"
+  valid_choice: "Must choose 1, 2, 3 or 4(SPANISH)"
+  another_operation?: "Would you like to perform another operation? (Y to calculate again)(SPANISH)"
+  exit_error_message: "Whoops! y/yes for another calculation. n/no to Exit.(SPANISH)"
+  exit_message: "Thank you for using Calculator! Good bye.(SPANISH)"
